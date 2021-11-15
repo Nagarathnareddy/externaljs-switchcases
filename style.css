@@ -1,0 +1,55 @@
+#body
+{
+    background-image: url(./images.html/bg.jpeg);
+    background-repeat: no-repeat;
+   
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+    color: gray;
+    text-shadow: 3px 3px 3px;
+    border-color: rgb(187, 67, 67);
+}
+#heading
+{
+    text-align: center;
+    font-size: 3em;
+    border-width: 5px;
+    font-style: italic;
+    color:whitesmoke;
+    border-color: rgb(187, 67, 67);
+    
+}
+
+#but1,#but3,#but4,#but5,#but6,#but2
+{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    border-color: teal;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: grey;
+    font-size: 1.08em;
+}
+#fset
+{
+ display: inline-block;
+ position: absolute;
+ left: 600px;
+ top: 300px;
+ border-color: black;
+ border-radius: 25px;
+ border-style: solid;
+
+}
+
+
+#kala,#indu,#sher,#agora,#rande,#sunil
+{
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   left: 850px;
+   top: 350px;
+}
